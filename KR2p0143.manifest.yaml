@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR2p0143/v1
+canonical_location: https://kanripo.org/bkk/KR2p0143/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 為吏之道
+  identifiers:
+    krp: KR2p0143
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0143.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0143_001.yaml, hash: 'sha256:10e68d9d08ffcdcfdd89214fb7b08cc9966cf8eddaa97bd02325e1269dafde80'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0143_001.markers.yaml, hash: 'sha256:810b94e98f9cffcf767b851fd48f61b37dac0992934b41064495074ed7a9f8ad'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0143_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1351
+  label: 睡虎地秦墓竹簡為吏之道
+  type: section
+  level: 1
+hash: sha256:a179626b953f3f3e4eb3c0ab761bf2693864044fa6f0026afcc378cb183d6580
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
