@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0143/v1
 canonical_location: https://kanripo.org/bkk/KR2p0143/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 為吏之道
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0143_001.yaml, hash: 'sha256:af4e42d83e1e5ed07f7d9d3d1dbb516f1058410b830c5f856ec5ae797dd5d305'}
+  - {seq: 1, filename: KR2p0143_001.yaml, hash: 'sha256:18d0ab3908a18357e348e43c300a466f973a44ff0a38395e7f88beaf811cf885'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0143_001.markers.yaml, hash: 'sha256:317006338737b47231d0ef8e52fccc3f0d0f2aa6d60a0c6b9ef7caf7834f7fa3'}
+  - {seq: 1, role: markers, filename: assets/KR2p0143_001.markers.yaml, hash: 'sha256:35e44802b5ea0130a9101a4e466e60dd5b0c1a908b037a92b3cebf7dc0cf64a8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 睡虎地秦墓竹簡為吏之道
   type: section
   level: 1
-hash: sha256:8905229fc34109d4b070fe3db740c2e3904f24f818a0a47028baf569eedd0d70
+hash: sha256:9fa39a5cfdd08fb18c2e14b87769d6bfdac9f13498288daf9ac814cb832c83ea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
